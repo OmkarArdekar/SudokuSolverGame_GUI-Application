@@ -205,24 +205,3 @@ submit_button.place(x=240, y=725)
 clear_button.place(x=360, y=725)
 
 root.mainloop()
-
-
-
-
-# board_size = min(root.winfo_reqwidth(), root.winfo_reqheight())
-
-# panel = tk.Frame(root, bg="black", bd=5, width=board_size, height=board_size)
-# panel.grid(row=0, column=0, padx=10, pady=10)
-
-# sudoku_cells = [[0 for _ in range(9)] for _ in range(9)]
-
-# bold_font = ("SansSerif", 25, "bold")
-
-# for i in range(9):
-#     for j in range(9):
-#         sudoku_cells[i][j] = tk.Entry(panel, width=2, bg="yellow", fg="black", font=bold_font,
-#                                        bd=2, relief=tk.SOLID, justify=tk.CENTER, highlightbackground="yellow")
-#         sudoku_cells[i][j].grid(row=i, column=j)
-#         sudoku_cells[i][j].insert(tk.END, "")
-# submit_button.grid(row=1, column=0, pady=10)
-# submit_button.pack(padx=5, pady=5)
