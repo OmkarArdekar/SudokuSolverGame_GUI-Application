@@ -13,5 +13,5 @@ Concepts Applied - Object-Oriented Programming (OOP), Event Handling, Backtracki
 # Python Code
 
 Developed a fully functinoal Sudoku Game using Python and Tkinter.
-Create the More Attractive User Interface.
-And also built an Extra Feature of Clear in this Sudoku Solver Game.
+Created the More Attractive User Interface (UI).
+And also built an Extra Feature of 'Clear All' in this Sudoku Solver Game.
