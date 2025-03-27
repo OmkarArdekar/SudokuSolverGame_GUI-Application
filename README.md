@@ -2,11 +2,9 @@
 
 # Sudoku Solver Game - GUI Application
 
-[Java](https://github.com/user-attachments/assets/bfafdd57-47fb-4e3f-8443-920efbf9207c)
-
+<!-- [Java](https://github.com/user-attachments/assets/bfafdd57-47fb-4e3f-8443-920efbf9207c)
 <br>
-
-[Python](https://github.com/user-attachments/assets/ded444cf-be24-4665-b830-6819a72fa4a0)
+[Python](https://github.com/user-attachments/assets/ded444cf-be24-4665-b830-6819a72fa4a0) -->
 
 Sudoku Solver Game is implemented by both programming languages Java and Python.
 The Difference between the Sudoku Solver Game implemented by Java and Python, is that the Sudoku Solver made by the Python as a Extra Feature and more attractive UI.
